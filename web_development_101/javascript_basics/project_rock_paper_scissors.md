@@ -1323,5 +1323,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Fosnine's Solution](https://github.com/Fosnine/RockPaperSciccors)
 - [Bomarkim's Solution](https://github.com/bomarkim/rpsJS)
 - [FortyPercentTitanium's Solution](https://github.com/fortypercenttitanium/rockpaperscissors) - [View in Browser](https://fortypercenttitanium.github.io/rockpaperscissors/)
+-- My solution is-- https://github.com/Vasilica-Tugui/rock_paper_scissors
 
 </details>
